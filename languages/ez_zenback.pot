@@ -1,0 +1,390 @@
+# Copyright (C) 2012 EZ zenback
+# This file is distributed under the same license as the EZ zenback package.
+msgid ""
+msgstr ""
+"Project-Id-Version: EZ zenback 1.5.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ez-zenback\n"
+"POT-Creation-Date: 2012-02-03 23:50:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: ez-zenback-admin.php:14
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: ez-zenback-admin.php:116
+msgid ""
+"Invalid zenback code. Settings could not be saved.<br />Please copy zenback "
+"code from your <a href=\"http://zenback.jp/\">zenback control panel</a> and "
+"paste it."
+msgstr ""
+
+#: ez-zenback-admin.php:119
+msgid ""
+"Invalid value. Settings could not be saved.<br />Your \"Exclusion\" contains "
+"some character strings that are not allowed to use."
+msgstr ""
+
+#: ez-zenback-admin.php:122
+msgid ""
+"Invalid value. Settings could not be saved.<br />Your \"Style Sheet\" "
+"contains some character strings that are not allowed to use."
+msgstr ""
+
+#: ez-zenback-admin.php:127
+msgid ""
+"Invalid value. Settings could not be saved.<br />Your \"Before the post "
+"content block\" contains some character strings that are not allowed to use."
+msgstr ""
+
+#: ez-zenback-admin.php:132
+msgid ""
+"Invalid value. Settings could not be saved.<br />Your \"After the post "
+"content block\" contains some character strings that are not allowed to use."
+msgstr ""
+
+#: ez-zenback-admin.php:148
+msgid "Settings saved."
+msgstr ""
+
+#: ez-zenback-admin.php:155 ez-zenback-admin.php:237
+msgid "Settings for zenback"
+msgstr ""
+
+#: ez-zenback-admin.php:161
+msgid "zenback code"
+msgstr ""
+
+#: ez-zenback-admin.php:164
+msgid ""
+"Get your \"<a href=\"http://zenback.jp/\">zenback code</a>\" now. zenback is "
+"registered trademark of Six Apart, Ltd."
+msgstr ""
+
+#: ez-zenback-admin.php:168
+msgid "Position"
+msgstr ""
+
+#: ez-zenback-admin.php:170
+msgid "Before comment block"
+msgstr ""
+
+#: ez-zenback-admin.php:170
+msgid "After comment block"
+msgstr ""
+
+#: ez-zenback-admin.php:170
+msgid "Widget"
+msgstr ""
+
+#: ez-zenback-admin.php:170
+msgid "Shortcode"
+msgstr ""
+
+#: ez-zenback-admin.php:174 ez-zenback-admin.php:215 ez-zenback-admin.php:227
+msgid "Insert into"
+msgstr ""
+
+#: ez-zenback-admin.php:176
+msgid "Posts"
+msgstr ""
+
+#: ez-zenback-admin.php:176
+msgid "Pages"
+msgstr ""
+
+#: ez-zenback-admin.php:180
+msgid "If you close comment form"
+msgstr ""
+
+#: ez-zenback-admin.php:182
+msgid "Display zenback on the posts and pages closing comment form"
+msgstr ""
+
+#: ez-zenback-admin.php:186
+msgid "Exclusion"
+msgstr ""
+
+#: ez-zenback-admin.php:189
+msgid ""
+"Enter comma-separated Post_id(s).<br />The zenback will not be shown on "
+"Posts or Pages with enterd Post_id."
+msgstr ""
+
+#: ez-zenback-admin.php:193
+msgid "Improve the accuracy of zenback"
+msgstr ""
+
+#: ez-zenback-admin.php:199
+msgid "Style Sheet"
+msgstr ""
+
+#: ez-zenback-admin.php:201
+msgid "Use additional CSS"
+msgstr ""
+
+#: ez-zenback-admin.php:206 ez-zenback-admin.php:256
+msgid "Settings for Inserting HTML, JavaScripts into your posts"
+msgstr ""
+
+#: ez-zenback-admin.php:209
+msgid "Before the post content block"
+msgstr ""
+
+#: ez-zenback-admin.php:217 ez-zenback-admin.php:229
+msgid "Home"
+msgstr ""
+
+#: ez-zenback-admin.php:217 ez-zenback-admin.php:229
+msgid "Post"
+msgstr ""
+
+#: ez-zenback-admin.php:217 ez-zenback-admin.php:229
+msgid "Page"
+msgstr ""
+
+#: ez-zenback-admin.php:217 ez-zenback-admin.php:229
+msgid "Category"
+msgstr ""
+
+#: ez-zenback-admin.php:217 ez-zenback-admin.php:229
+msgid "Search"
+msgstr ""
+
+#: ez-zenback-admin.php:217 ez-zenback-admin.php:229
+msgid "Archives"
+msgstr ""
+
+#: ez-zenback-admin.php:221
+msgid "After the post content block"
+msgstr ""
+
+#: ez-zenback-admin.php:234
+msgid "Save Changes"
+msgstr ""
+
+#: ez-zenback-admin.php:239
+msgid ""
+"This plugin will help you to install \"<a href=\"http://zenback.jp/"
+"\">zenback</a>\"."
+msgstr ""
+
+#: ez-zenback-admin.php:242
+msgid ""
+"To insert \"zenback\" code into your posts or pages, At first, Enter your "
+"zenback code in \"zenback code\"."
+msgstr ""
+
+#: ez-zenback-admin.php:245
+msgid ""
+"Choose display position of \"zenback\", You can insert \"zenback\" before or "
+"after comment block.<br />You can also add zenback as a widget.<br />After "
+"you choose \"widget\", go to \"Widgets\" section under \"Appearance\" menu "
+"in WordPress and add the \"EZ zenback Widget\" in your sidebar.<br />If you "
+"choose \"shortcode\", you use following \"shortcode\" in your posts, pages "
+"or widget to insert \"zenback\".<br />Shortcode: <code>[zenback]</code>"
+msgstr ""
+
+#: ez-zenback-admin.php:247
+msgid ""
+"Choose contents which \"zenback\" will install to. You can install \"zenback"
+"\" to your posts, pages or both.<br />If you choose \"shortcode\", this "
+"option will be invalid."
+msgstr ""
+
+#: ez-zenback-admin.php:249
+msgid ""
+"Even if you close comment form on the all posts and pages or a part of posts "
+"and pages,<br />you can enable \"Display zenback on the posts and pages "
+"closing comment form\" to insert \"zenback\" into these posts and pages."
+msgstr ""
+
+#: ez-zenback-admin.php:251
+msgid ""
+"When you enable \"Improve the accuracy of zenback\",<br /><a href=\"http://"
+"zenback.typepad.jp/blog/2010/07/%E9%96%A2%E9%80%A3%E8%A8%98%E4%BA%8B%E3%81%AE"
+"%E7%B2%BE%E5%BA%A6%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8Bzenback%E3%82%BF%E3%82%"
+"B0.html\">Special tags</a> will be insert your posts or pages to improve the "
+"accuracy of analysing related posts."
+msgstr ""
+
+#: ez-zenback-admin.php:253
+msgid ""
+"If you need you can add your own stylesheet for zenback. <a href=\"http://"
+"blog.zenback.jp/2010/07/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%91%E3%83%BC%E3%83%"
+"84%E3%81%AEidclass%E6%A7%8B%E9%80%A0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html"
+"\">ブログパーツのid／class構造とcssについて</a>"
+msgstr ""
+
+#: ez-zenback-admin.php:258
+msgid ""
+"You can also insert your own HTML or JavaScripts before or after your posts, "
+"pages easily."
+msgstr ""
+
+#: ez-zenback-admin.php:261
+msgid ""
+"Enter your HTML or JavaScripts in \"Before the Post content block\", \"After "
+"the Post content block\" or both."
+msgstr ""
+
+#: ez-zenback-admin.php:264
+msgid "Choose contents which your HTML or JavaScripts will be inserted into."
+msgstr ""
+
+#: ez-zenback-admin.php:266
+msgid ""
+"When you activate \"Archives\", your HTML or JavaScripts will be inserted "
+"into \"Year\", \"Month\", \"Date\", \"Time\" and \"Tag\" based archives "
+"pages."
+msgstr ""
+
+#: ez-zenback-admin.php:269
+msgid "Notes"
+msgstr ""
+
+#: ez-zenback-admin.php:271
+msgid "This plugin depends on your using wordpress theme."
+msgstr ""
+
+#: ez-zenback-admin.php:273
+msgid "In some wordpress themes, this plugin will not work normally."
+msgstr ""
+
+#: ez-zenback-admin.php:274
+msgid "You need to use this plugin with default comment system."
+msgstr ""
+
+#: ez-zenback-admin.php:276
+msgid ""
+"When default comment system is replaced by other comment system, \"zenback\" "
+"will not be shown."
+msgstr ""
+
+#: ez-zenback-admin.php:278
+msgid ""
+"If you have used \"<a href=\"http://disqus.com/\">DISQUS</a>\" as your "
+"comment system or you want to use \"DISQUS\",<br />Use \"<a href=\"http://"
+"www.near-mint.com/blog/software/disqus-comment-system-for-ez-zenback"
+"\">Disqus Comment System for EZ zenback</a>\" plugin instead of <a href="
+"\"http://wordpress.org/extend/plugins/disqus-comment-system/\">Disqus "
+"Comment System</a> plugin."
+msgstr ""
+
+#: ez-zenback-admin.php:281
+msgid "Show Your System Info"
+msgstr ""
+
+#: ez-zenback-admin.php:284
+msgid "Server OS:"
+msgstr ""
+
+#: ez-zenback-admin.php:285
+msgid "PHP version:"
+msgstr ""
+
+#: ez-zenback-admin.php:286
+msgid "MySQL version:"
+msgstr ""
+
+#: ez-zenback-admin.php:287
+msgid "WordPress version:"
+msgstr ""
+
+#: ez-zenback-admin.php:288
+msgid "Site URL:"
+msgstr ""
+
+#: ez-zenback-admin.php:289
+msgid "WordPress URL:"
+msgstr ""
+
+#: ez-zenback-admin.php:290
+msgid "WordPress language:"
+msgstr ""
+
+#: ez-zenback-admin.php:291
+msgid "WordPress character set:"
+msgstr ""
+
+#: ez-zenback-admin.php:292
+msgid "WordPress theme:"
+msgstr ""
+
+#: ez-zenback-admin.php:293
+msgid "EZ zenback version:"
+msgstr ""
+
+#: ez-zenback-admin.php:294
+msgid "EZ zenback URL:"
+msgstr ""
+
+#: ez-zenback-admin.php:295
+msgid "Your browser:"
+msgstr ""
+
+#: ez-zenback-admin.php:299
+msgid "To report a bug ,submit requests and feedback, "
+msgstr ""
+
+#: ez-zenback-admin.php:299
+msgid ""
+"Use <a href=\"http://wordpress.org/tags/ez-zenback?forum_id=10\">Forum</a> "
+"or <a href=\"http://www.near-mint.com/blog/contact\">Mail From</a>"
+msgstr ""
+
+#: ez-zenback-widget.php:12
+msgid "EZzenback Widget shows zenback."
+msgstr ""
+
+#: ez-zenback-widget.php:13
+msgid "EZ zenback Widget"
+msgstr ""
+
+#: ez-zenback-widget.php:45
+msgid "Title:"
+msgstr ""
+
+#: ez-zenback.php:135
+msgid ""
+"EZ zenback has successfully created new DB table.<br />If you upgraded to "
+"this version, some setting options may be added or reset to the default "
+"values.<br />Go to the <a href=\"options-general.php?page=ez-zenback-options"
+"\">setting panel</a> and configure EZ zenback now. Once you save your "
+"settings, this message will be cleared."
+msgstr ""
+
+#: ez-zenback.php:157
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "EZ zenback"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.near-mint.com/blog/software/ez-zenback"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The \"<a href=\"http://zenback.jp/\">zenback</a>\" service analyzes Japanese "
+"posts and displays related keywords, related posts and mentioned tweets in "
+"your blog. It also provides social buttons such as Twitter, Faceboox, Google "
+"+1, Hatena bookmark, mixi check to your blog. This plugin will help you to "
+"install \"zenback\". No need to edit theme files to install \"zenback\" "
+"code. You can insert not only \"zenback\" code but also other HTML, "
+"JavaScripts into your posts or pages easily."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "redcocker"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.near-mint.com/blog/"
+msgstr ""
